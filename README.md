@@ -1,6 +1,6 @@
 # 👋 Jose Edward Mukhwana
 
-💻 Software Developer focused on automation, web applications, networking, and business systems.
+💻 Your friendly neighbourhood Software Developer | IT Technician.
 
 ---
 
