@@ -1,4 +1,4 @@
-# 👋 Jose Edward Mukhwana
+# 👋 Hi there
 
 💻 Your friendly neighbourhood Software Developer | IT Technician.
 
